@@ -1,4 +1,6 @@
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [MikeOwino!](https://mikeowino.com) 👋
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Anurag kushwaha!](https://anuragkush.netlify.app) 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag0s1&layout=compact&theme=highcontrast)](https://github.com/anurag0s1/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag0s1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="anurag0s1 Github Stats">
 
