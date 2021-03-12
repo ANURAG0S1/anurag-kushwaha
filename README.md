@@ -1,5 +1,13 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Anurag kushwaha!](https://anuragkush.netlify.app) 👋
 
+
+Hi, I'm Anurag, a passionate self-taught frontEnd web developer.
+
+- 🔭 I’m currently working on my project [GadgetsMag](https://github.com/gadgetsmag.github.io) <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/>
+- 🌱 I’m currently learning Javascript, CSS,  Python & Jekyll
+- 👯 I’m looking to collaborate on [GadgetsMag](https://github.com/gadgetsmag.github.io)
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag0s1&layout=compact&theme=highcontrast)](https://github.com/anurag0s1/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag0s1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="anurag0s1 Github Stats">
